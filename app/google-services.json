@@ -1,0 +1,30 @@
+  {
+  "project_info": {
+    "project_number": "938716783956",
+    "firebase_url": "https://smartbus-accf4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartbus-accf4",
+    "storage_bucket": "smartbus-accf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938716783956:android:49b0247d99108fed32d4c1",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbrVpJEANC5X58ASHc5zw31xbr4AXGcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
